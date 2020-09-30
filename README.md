@@ -1,5 +1,10 @@
 # Logging Events With Elk
 
+## Prep Before Labs
+
+1. Download the code as a zip
+
+
 ## Labs
 
 1. [Shakespeare](./shakespeare.md)
