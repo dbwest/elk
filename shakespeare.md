@@ -90,3 +90,9 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **You should see a bar chart**
 
 ![speaker_bar](assets/speaker_bar.PNG)
+
+**17. You may now be wondering... Is Lady Macbeth in this dataset?....**
+
+**Extra credit: Determine if Lady Macbeth is in the dataset.**
+
+**Extra extra credit: make a `tag cloud` with all the speakers (bigger text for speaker's name if they have more lines)
