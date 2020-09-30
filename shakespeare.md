@@ -41,6 +41,6 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![uploadfile](assets/uploadfile.PNG)
 
-**8. Drag 'n Drop `shakespeare_6.0.json` in per the below picture:**
+**8. Drag 'n Drop `shakespeare.json` in (will have a slightly diff name than in the below picture):**
 
 ![drag_n_drop](assets/drag_n_drop.PNG)
