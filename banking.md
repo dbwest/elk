@@ -10,3 +10,5 @@ We will sift through sample banking data from account holders and look at the di
 
 - Bucketing Data
 - Applying ELK for Demographics
+
+### Instructions
