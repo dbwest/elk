@@ -44,3 +44,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **8. Drag 'n Drop `shakespeare.json` in (will have a slightly diff name than in the below picture):**
 
 ![drag_n_drop](assets/drag_n_drop.PNG)
+
+**9. Verify you see the following screen to make sure your import was successful.**
+
+![success_shakes](assets/success_shakes.PNG)
