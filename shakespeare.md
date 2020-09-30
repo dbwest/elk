@@ -21,6 +21,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 2. Click `Log in with Elasticsearch`
 
+![login](assets/login.PNG)
 
 2. Log in with the credentials you got during pre-prep.
 
