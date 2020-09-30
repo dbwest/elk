@@ -56,3 +56,8 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **11. Wait while Kibana 'does its magic'. When it is done you can go to the next step.**
 
 ![do_the_magic](assets/do_the_magic.PNG)
+
+**12. Open up the `hamburger` menu on the left and go to `Discover`.**
+
+![discover](assets/discover.PNG)
+
