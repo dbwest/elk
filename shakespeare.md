@@ -19,5 +19,10 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 - Magenta: https://magenta.mi7.dev
 - Yellow: https://yellow.mi7.dev
 
-2. Log in with the credentials (to be supplied by the instructor).
+2. Click `Log in with Elasticsearch`
+
+
+2. Log in with the credentials you got during pre-prep.
+
+3. 
 
