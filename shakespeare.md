@@ -40,3 +40,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **7. Click `Upload File`**
 
 ![uploadfile](assets/uploadfile.PNG)
+
+**8. Drag 'n Drop `shakespeare_6.0.json` in per the below picture:**
+
+![drag_n_drop](assets/drag_n_drop.PNG)
