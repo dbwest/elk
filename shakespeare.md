@@ -52,3 +52,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **10. Name your index `shakespeare`. Do not forget to click `Import` again.**
 
 ![name_idx_shakes](assets/name_idx_shakes.PNG)
+
+**11. Wait while Kibana 'does its magic'. When it is done you can go to the next step.**
+
+![do_the_magic](assets/do_the_magic.PNG)
