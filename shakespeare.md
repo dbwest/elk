@@ -80,3 +80,13 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **15. Now we will do some CSI. We are going to see which characters have the most lines about 'murder'. Put the following in the search bar. `text_entry : "*murder*"`**
 
 ![csi](assets/csi.PNG)
+
+**16. Now let's get a histogram of all characters talking about "murder" and make a bar chart. First click on `speaker` on the left side of `Discover` to expand a list of speakers of lines from shakespeare and show the counts for each speaker.**
+
+**Click the `Visualize` button under the speakers**
+
+![speakers](assets/speakers.PNG)
+
+**You should see a bar chart**
+
+![speaker_bar](assets/speaker_bar.PNG)
