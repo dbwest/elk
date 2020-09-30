@@ -45,6 +45,6 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![drag_n_drop](assets/drag_n_drop.PNG)
 
-**9. Verify you see the following screen to make sure your import was successful.**
+**9. Click `Import` This is very important.**
 
-![success_shakes](assets/success_shakes.PNG)
+![success_shakes](assets/import.PNG)
