@@ -95,4 +95,4 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 **Extra credit: Determine if Lady Macbeth is in the dataset.**
 
-**Extra extra credit: make a `tag cloud` with all the speakers (bigger text for speaker's name if they have more lines)
+**Extra extra credit: make a `tag cloud` with all the speakers (bigger text for speaker's name if they have more lines)**
