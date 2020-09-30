@@ -65,3 +65,15 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![search_bar](assets/search_bar.PNG)
 
+**14. Hmm the lines look a little cluttered.**
+
+![cluttered](assets/cluttered.PNG)
+
+**Let's fix that. Hover over `text_entry`, the field with each characters lines, and click the `add` button that appears on mouse-over**
+
+![mouse_over](assets/mouse_over.PNG)
+
+**That's better!**
+
+![better](assets/better.PNG)
+
