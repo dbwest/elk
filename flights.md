@@ -8,7 +8,7 @@ Answer these questions
 
 1. How many delays were there in the last 3 days?
 
-2. In the past 7 days what was the highest average ticket price?
+2. In the past 7 days what was the average ticket price?
 
 3. What is the least common weather to have at a destination this week?
 
