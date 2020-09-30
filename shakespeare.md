@@ -77,3 +77,6 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![better](assets/better.PNG)
 
+**15. Now we will do some CSI. We are going to see which characters have the most lines about 'murder'. Put the following in the search bar. `text_entry : "*murder*"`**
+
+![csi](assets/csi.PNG)
