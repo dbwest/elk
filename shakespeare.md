@@ -36,3 +36,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **6. Click `Data Visualizer`**
 
 ![dataviz](assets/dataviz.PNG)
+
+**7. Click `Upload File`**
+
+![uploadfile](assets/uploadfile.PNG)
