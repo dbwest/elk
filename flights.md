@@ -15,3 +15,7 @@ Answer these questions
 4. Over the past 14 days, which country has an overwhelming number of domestic flights?
 
 5. How many connections and flights did SFO (San Fran) have over the past 2 weeks?
+
+6. Over the last 24 hours what is the cumulative time in the air of all the planes?
+
+7. Name 3 airlines in the dataset.
