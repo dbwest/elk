@@ -32,3 +32,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **5. Click `Machine Learning`**
 
 ![ml](assets/ml2.PNG)
+
+**6. Click `Data Visualizer`**
+
+![dataviz](assets/dataviz.PNG)
