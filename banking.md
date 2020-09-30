@@ -41,7 +41,7 @@ We will sift through sample banking data from account holders and look at the di
 
 Enter the following ranges to split the slices.
 
-![ranges_balances](assets/ranges_balances.PNG)
+![ranges_balances](assets/balance_ranges.PNG)
 
 8. Extra credit: Add demographic data (challenge!)
 
