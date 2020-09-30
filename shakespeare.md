@@ -71,7 +71,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 **Let's fix that. Hover over `text_entry`, the field with each characters lines, and click the `add` button that appears on mouse-over**
 
-![mouse_over](assets/mouse_over.PNG)
+![mouse_over](assets/mouse_over.png)
 
 **That's better!**
 
