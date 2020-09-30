@@ -48,3 +48,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 **9. Click `Import` This is very important.**
 
 ![success_shakes](assets/import.PNG)
+
+**10. Name your index `shakespeare`. Do not forget to click `Import` again.
+
+![name_idx_shakes](assets/name_idx_shakes.PNG)
