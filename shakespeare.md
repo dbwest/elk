@@ -61,7 +61,7 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![discover](assets/discover.PNG)
 
-**13. We are now going to start exploring the Shakespeare data. We will start by seeing all lines spoken by the character HAMLET type `speaker : HAMLET` in the search bar**
+**13. We are now going to start exploring the Shakespeare data. We will start by seeing all lines spoken by the character HAMLET type `speaker : HAMLET` in the search bar. Then press `enter`**
 
 ![search_bar](assets/search_bar.PNG)
 
