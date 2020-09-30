@@ -3,7 +3,11 @@
 ## Prep Before Labs
 
 1. Download the code as a zip
+
 ![DL](assets/DL.PNG?raw=true)
+
+2. Unzip it
+
 
 
 ## Labs
