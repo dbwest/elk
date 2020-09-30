@@ -31,4 +31,4 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 4. Click `Machine Learning`
 
-![ml](assets/ml.PNG)
+![ml](assets/ml2.PNG)
