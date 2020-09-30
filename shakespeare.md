@@ -29,3 +29,6 @@ This lab involves analyzing all the lines from all the characters in Shakespeare
 
 ![hamburger](assets/hamburger.PNG)
 
+4. Click `Machine Learning`
+
+![ml](assets/ml.PNG)
