@@ -12,7 +12,7 @@
 
 ![drag](assets/drag.PNG?raw=true)
 
-4. Know your team! Are you Cyan, Magenta, or Yellow?
+4. Determine your breakout group. It is Cyan, Magenta, or Yellow.
 
 5. Get the required credentials from the instructor for your team. You will need them. Don't lose them. Your login will always be `elastic`, but your password is a secret. Shhhh.
 
