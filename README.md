@@ -8,6 +8,10 @@
 
 2. Unzip it
 
+3. Open the `sampledata` folder in a file explorer window so you have files ready for drag 'n drop
+
+
+
 
 
 ## Labs
